@@ -1,5 +1,5 @@
 # Chat ontwerpen
-
+Ik begon met het schetsen op papier van een chatroom voor Reflect for Effect. Vervolgens heb ik in Figma tien variaties gemaakt. Een hiervan heb ik uitgekozen om verder uit te werken in code. 
 ## Papier schetsen
 
 ![20220524_164211](https://user-images.githubusercontent.com/26089533/170064068-d76263c5-6c8e-4af6-94eb-71edd0232b12.jpg)
@@ -36,8 +36,6 @@
 #### Schets #10
 ![RfE Chatroom(10)](https://user-images.githubusercontent.com/26089533/170066356-a226fd1e-19dd-4c87-a674-74649978e635.png)
 
-## Schetsen, Figma/XD of CSS?
-Ik begon met het schetsen op papier van een chatroom voor Reflect for Effect. Vervolgens heb ik in Figma tien variaties gemaakt. Een hiervan heb ik uitgekozen om verder uit te werken in code. 
 
 ## Licentie
 
