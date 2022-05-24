@@ -6,7 +6,7 @@
 
 ## Ontwerp tien verschillende digitale versies van een chatroom voor jouw opdrachtgever
 
-### Schets #1
+#### Schets #1
 ![RfE Chatroom(1)](https://user-images.githubusercontent.com/26089533/170065776-1bce7dd0-3901-42c5-bd25-12cb4453bbb4.png)
 
 ### Schets #2
